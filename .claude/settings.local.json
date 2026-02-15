@@ -8,7 +8,9 @@
       "Bash(git commit:*)",
       "Bash(gh repo create:*)",
       "Bash(git -C /home/alexandre/properties log --oneline --stat)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(sort:*)",
+      "Bash(tail:*)"
     ]
   }
 }
