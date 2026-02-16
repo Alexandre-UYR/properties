@@ -10,7 +10,27 @@
       "Bash(git -C /home/alexandre/properties log --oneline --stat)",
       "Bash(git push:*)",
       "Bash(sort:*)",
-      "Bash(tail:*)"
+      "Bash(tail:*)",
+      "Bash(claude-agent spawn:*)",
+      "Bash(claude agent:*)",
+      "Bash(python3 process_cf24_4.py)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash({)",
+      "Bash(__NEW_LINE_a50e67cacfebb5d1__ echo \"║          CF24 4 SECTOR - COMPLETE HOUSING ANALYSIS          ║\")",
+      "Bash(__NEW_LINE_a50e67cacfebb5d1__ echo \"╚══════════════════════════════════════════════════════════════╝\")",
+      "Bash(__NEW_LINE_a50e67cacfebb5d1__ echo \"\")",
+      "Bash(__NEW_LINE_a50e67cacfebb5d1__ tail -n +2 /home/alexandre/properties/data/CF24_4_Housing_Tenure_Summary.csv)",
+      "Bash(split:*)",
+      "Bash(wc:*)",
+      "Bash(chmod:*)",
+      "Bash(cat:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(/home/alexandre/properties/runs/CF24_3_Retry_20260216_084605/manifests.jsonl:*)",
+      "Bash(claude task create:*)",
+      "Bash(pip3 install:*)",
+      "Bash(})"
     ]
   }
 }
