@@ -1,0 +1,5 @@
+{"sector": "CF24 2", "batch": "00", "csv_path": "/home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_00.csv", "rows": 60, "errors": 0}
+{"sector": "CF24 2", "batch": "01", "csv_path": "/home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_01.csv", "rows": 60, "errors": 15}
+{"sector": "CF24 2", "batch": "02", "csv_path": "/home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_02.csv", "rows": 60, "errors": 53}
+{"sector": "CF24 2", "batch": "03", "csv_path": "/home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_03.csv", "rows": 60, "errors": 0}
+{"sector": "CF24 2", "batch": "04", "csv_path": "/home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_04.csv", "rows": 11, "errors": 0}

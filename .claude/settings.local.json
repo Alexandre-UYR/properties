@@ -30,7 +30,31 @@
       "Bash(/home/alexandre/properties/runs/CF24_3_Retry_20260216_084605/manifests.jsonl:*)",
       "Bash(claude task create:*)",
       "Bash(pip3 install:*)",
-      "Bash(})"
+      "Bash(})",
+      "Bash(/home/alexandre/properties/runs/CF24_2_20260216_103633/batch_00_prompt.txt:*)",
+      "Bash(while ! test -f /home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_00.csv)",
+      "Bash(! test -f /home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_01.csv)",
+      "Bash(! test -f /home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_02.csv)",
+      "Bash(do sleep 2)",
+      "Bash(done)",
+      "Bash(while ! test -f /home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_03.csv)",
+      "Bash(! test -f /home/alexandre/properties/runs/CF24_2_20260216_103633/CF24_2_batch_04.csv)",
+      "Bash(for:*)",
+      "Bash(do tail -n +2 CF24_2_batch_$i.csv)",
+      "Bash(find:*)",
+      "Bash(/home/alexandre/properties/runs/CF24_2_retry_20260216_105120/CF24_2_retry_Housing_Tenure_Summary.csv:*)",
+      "Bash(/home/alexandre/properties/runs/CF24_2_RETRY_20260216_124205/worker_prompt_01.txt:*)",
+      "Bash(claude-code-task new:*)",
+      "Bash(claude-code-task output:*)",
+      "Bash(/home/alexandre/properties/runs/CF24_2_RETRY_20260216_124205/CF24_2_RETRY_Housing_Tenure_Summary.csv:*)",
+      "Bash(/home/alexandre/properties/runs/CF11_7_20260216_212352/worker.sh:*)",
+      "Bash(/home/alexandre/properties/runs/CF11_7_20260216_212352/process_batch.sh:*)",
+      "Bash(/home/alexandre/properties/runs/CF11_7_20260216_212352/CF11_7_batch_01.csv:*)",
+      "Bash(/home/alexandre/properties/runs/CF11_7_20260216_212352/compile_data.py:*)",
+      "Bash(claude init:*)",
+      "Bash(claude:*)",
+      "Bash(pip install:*)",
+      "WebFetch(domain:www.streetcheck.com)"
     ]
   }
 }

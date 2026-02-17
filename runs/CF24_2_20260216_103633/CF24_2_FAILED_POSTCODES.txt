@@ -1,0 +1,43 @@
+CF24 2 - Failed Postcodes (No Data Available)
+Total: 38 postcodes
+
+CF24 2NW
+CF24 2NX
+CF24 2NY
+CF24 2NZ
+CF24 2PA
+CF24 2PB
+CF24 2PD
+CF24 2PE
+CF24 2PF
+CF24 2PG
+CF24 2PH
+CF24 2PJ
+CF24 2PL
+CF24 2PN
+CF24 2PP
+CF24 2PQ
+CF24 2PR
+CF24 2PS
+CF24 2PT
+CF24 2PU
+CF24 2PW
+CF24 2PX
+CF24 2PY
+CF24 2PZ
+CF24 2QA
+CF24 2QB
+CF24 2QD
+CF24 2QE
+CF24 2QF
+CF24 2QG
+CF24 2QH
+CF24 2QJ
+CF24 2QL
+CF24 2QN
+CF24 2QP
+CF24 2QQ
+CF24 2QR
+CF24 2QS
+
+Note: These postcodes likely don't exist in the StreetCheck database or have no housing tenure data available.
