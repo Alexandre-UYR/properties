@@ -54,7 +54,9 @@
       "Bash(claude init:*)",
       "Bash(claude:*)",
       "Bash(pip install:*)",
-      "WebFetch(domain:www.streetcheck.com)"
+      "WebFetch(domain:www.streetcheck.com)",
+      "WebSearch",
+      "Bash(echo:*)"
     ]
   }
 }
